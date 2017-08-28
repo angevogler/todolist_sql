@@ -16,6 +16,8 @@ created_at -- not optional. A date and time.
 completed_at -- optional. A date a time.
 
 
+
+
 In a file called todo.sql:
 
 
